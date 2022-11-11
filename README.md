@@ -25,3 +25,16 @@ Login page:
 
 
 
+
+
+Home page:
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/115737287/201398376-7c0d81f5-cff6-4b46-9a49-cefcfd53b606.png)
+
+
+
+
