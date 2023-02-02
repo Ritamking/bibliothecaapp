@@ -19,8 +19,22 @@ The  frontend code is attached and structured in their respective folders. Furth
 
 <br></br>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/115737287/195679072-ecbde255-9023-4f10-a481-01134ab139b5.png" width="260" height="538"/>&nbsp;<img src="https://user-images.githubusercontent.com/115737287/195679246-b7212300-0eb1-47d8-97b3-4bd8af495adf.png" width="260" height="538"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/115737287/201398376-7c0d81f5-cff6-4b46-9a49-cefcfd53b606.png" width="260" height="538"/><br></br>
-<img src="https://user-images.githubusercontent.com/115737287/202253843-7848813b-bc5e-4bdb-8415-68865ed51932.png" width="260" height="538"/<br></br>
+<img src="https://user-images.githubusercontent.com/115737287/195679072-ecbde255-9023-4f10-a481-01134ab139b5.png" width="260" height="538"/>&nbsp;<img src="https://user-images.githubusercontent.com/115737287/195679246-b7212300-0eb1-47d8-97b3-4bd8af495adf.png" width="260" height="538"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/115737287/216418845-b620b420-9278-41a8-9e59-e93e4b06f6de.png" width="260" height="538"/><br></br>
+<img src="https://user-images.githubusercontent.com/115737287/202253843-7848813b-bc5e-4bdb-8415-68865ed51932.png" width="260" height="538"/<br>
+<img src="https://user-images.githubusercontent.com/115737287/216402311-55bbff1f-64ae-40fd-9c81-33ee900db1d0.png" width="260" height="538"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/115737287/216403296-4b2a7aa6-67ac-4a67-9a1b-b6a146e3a71d.png" width="260" height="538"/><br></br>
+<img src="https://user-images.githubusercontent.com/115737287/216404387-202182f2-d21e-4e29-b8f2-774d11d5c007.png" width="260" height="538"/<br>
+<img src="https://user-images.githubusercontent.com/115737287/216408161-a228cef2-3091-49b3-938d-64648c3de267.png" width="260" height="538"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/115737287/216410380-eebf4ade-c5f6-4d92-b1c5-48cbd83b463d.png" width="260" height="538"/<br></br>
+<img src="https://user-images.githubusercontent.com/115737287/216411076-3f599e4d-c87e-49dc-a854-aeb460bf7e04.png" width="260" height="538"/<br>
+<img src="https://user-images.githubusercontent.com/115737287/216412925-2d4f5996-3479-48d7-ad04-1594cf648126.png" width="260" height="538"/<br>
+<img src="https://user-images.githubusercontent.com/115737287/216414486-41739c07-77e3-4803-8060-e8a5c3043223.png" width="260" height="538"/<br>
+<img src="https://user-images.githubusercontent.com/115737287/216415738-7c5a0256-28d3-4925-8160-7f45102a3020.png" width="260" height="538"/<br>
+<img src="https://user-images.githubusercontent.com/115737287/216417211-8a5d90fe-7a17-40e1-88eb-01f394289c35.png" width="260" height="538"/<br>
+
+
+
+
 
 ## 🚀 Technologies
 
